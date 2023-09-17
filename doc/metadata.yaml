@@ -1,0 +1,17 @@
+description: Replaced by PWMLED01C.
+github_branch: PWMLED01A
+github_description: Replaced by PWMLED01C.
+github_repo: PWMLED01
+github_url: https://github.com/mlab-modules/PWMLED01
+homepage: false
+images:
+- doc/img/PWMLED01A_bottom_small.jpg
+- doc/img/DSCN0044.jpg
+- doc/img/DSCN0043.jpg
+- doc/img/PWMLED01A_top_small.jpg
+- doc/img/PWMLED01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: PWMLED01
+updated: '2023-09-17T11:41:18.398210+00:00'
